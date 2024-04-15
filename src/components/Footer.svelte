@@ -11,7 +11,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Support</p>
             <a
-                href=""
+                href
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -21,7 +21,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Research</p>
             <a
-                href=""
+                href
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -31,7 +31,7 @@
         <div class="flex flex-col gap-4">
             <p class="font-bold poppins text-base sm:text-lg">Follow Us</p>
             <a
-                href=""
+                href
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -39,7 +39,7 @@
                 Instagram</a
             >
             <a
-                href=""
+                href
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -47,7 +47,7 @@
                 YouTube</a
             >
             <a
-                href=""
+                href
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
@@ -55,7 +55,7 @@
                 Facebook</a
             >
             <a
-                href=""
+                href
                 target="_blank"
                 class="cursor-pointer hover:text-indigo-400 duration-200"
             >
